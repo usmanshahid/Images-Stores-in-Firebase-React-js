@@ -1,6 +1,5 @@
 import ImageCompresson from "./Components/imageCompresson";
 
-
 function App()
 {
   return (
