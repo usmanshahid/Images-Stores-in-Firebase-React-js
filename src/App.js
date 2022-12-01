@@ -1,10 +1,10 @@
-import ImageCompresson from "./Components/imageCompresson";
+import FireBAseImageUpload from "./Components/ImageUpload-Firbase";
 
 function App()
 {
   return (
     <>
-      <ImageCompresson />
+      <FireBAseImageUpload />
     </>
   );
 }
